@@ -1,16 +1,5 @@
 # coffee_masters
 
-A new Flutter project.
+Cofee_masters is a Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developed under the guidance of the [Cross-Platform Mobile Apps with Flutter](https://frontendmasters.com/courses/?q=flutter) tutorial at Coffee Masters [Frontend Masters](https://frontendmasters.com/).
